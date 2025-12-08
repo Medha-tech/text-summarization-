@@ -33,7 +33,7 @@ The summarizer follows these steps:
 
 **5. Selecting top sentences**
 
-  The top 30% of the highest-scoring sentences are extracted and combined to create the summary.
+  The top 30% of the highest scoring sentences are extracted and combined to create the summary.
 
   ---
 
@@ -90,5 +90,6 @@ text-summarization/
 Medha Ramanathan
 
 GitHub: Medha-tech
+
 
 ----
