@@ -79,6 +79,7 @@ numpy
 text-summarization/
 │── notebooks/
 │   └── text_sum_NLP.ipynb
+│── .gitignore
 │── README.md
 └── requirements.txt
 ```
@@ -93,3 +94,4 @@ GitHub: Medha-tech
 
 
 ----
+
